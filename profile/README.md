@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://jumpserver.org"><img src="https://download.jumpserver.org/images/jumpserver-logo.svg" alt="JumpServer" width="300" /></a>
-</p>
 <h3 align="center">广受欢迎的开源堡垒机</h3>
 
 <p align="center">
