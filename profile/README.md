@@ -37,4 +37,5 @@
 
 - [DataEase](https://github.com/dataease) - 人人可用的开源数据可视化分析工具
 - [MeterSphere](https://github.com/metersphere/) - 一站式开源自动化测试平台
-- [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板
+- [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
