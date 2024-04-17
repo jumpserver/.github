@@ -33,9 +33,10 @@
 - [论坛](https://bbs.fit2cloud.com/c/js/5)
 - [博客](https://blog.fit2cloud.com/categories/jumpserver)
 
-## 相关组织
+## 飞致云其它开源产品
 
-- [DataEase](https://github.com/dataease) - 人人可用的开源数据可视化分析工具
-- [MeterSphere](https://github.com/metersphere/) - 一站式开源自动化测试平台
-- [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板
-- [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
+<!-- - [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机 -->
+- [DataEase](https://github.com/dataease/dataease/) - 人人可用的开源数据可视化分析工具
+- [MeterSphere](https://github.com/metersphere/metersphere/) - 一站式开源自动化测试平台
+- [1Panel](https://github.com/1panel-dev/1panel/) - 现代化、开源的 Linux 服务器运维管理面板
+- [Halo](https://github.com/halo-dev/halo/) - 强大易用的开源建站工具
