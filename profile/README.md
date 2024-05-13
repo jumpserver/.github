@@ -7,11 +7,10 @@
   <a href="https://github.com/jumpserver/jumpserver"><img src="https://img.shields.io/github/stars/jumpserver/jumpserver?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
 
-
 ------------------------------
-## 核心项目
+## 核心组件项目
 
-| 项目                                                     | 状态                                                                                                                                                                     | 描述                                                                                |
+| 组件项目                                                     | 状态                                                                                                                                                                     | 描述                                                                                |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [Core](https://github.com/jumpserver/jumpserver)       | <a href="https://github.com/jumpserver/jumpserver/releases"><img alt="JumpServer" src="https://img.shields.io/github/release/jumpserver/jumpserver.svg" /></a>         | JumpServer API 项目                                                                 |
 | [Lina](https://github.com/jumpserver/lina)             | <a href="https://github.com/jumpserver/lina/releases"><img alt="Lina release" src="https://img.shields.io/github/release/jumpserver/lina.svg" /></a>                   | JumpServer Web UI 项目                                                              |
@@ -25,7 +24,6 @@
 | [Chen](https://github.com/jumpserver/chen-release)     | <a href="https://github.com/jumpserver/chen-release/releases"><img alt="Chen release" src="https://img.shields.io/github/release/jumpserver/chen-release.svg" />       | JumpServer Web DB 项目，替代原来的 OmniDB                                                 |
 | [Kael](https://github.com/jumpserver/kael)             | <a href="https://github.com/jumpserver/kael/releases"><img alt="Kael release" src="https://img.shields.io/github/release/jumpserver/kael.svg" />                       | JumpServer 连接 GPT 资产的组件项目                                                         |
 
-
 ## 相关链接
 
 - [官网](https://jumpserver.org)
@@ -33,10 +31,10 @@
 - [论坛](https://bbs.fit2cloud.com/c/js/5)
 - [博客](https://blog.fit2cloud.com/categories/jumpserver)
 
-## 飞致云其它开源产品
+## 飞致云的其它明星开源产品
 
-<!-- - [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机 -->
-- [DataEase](https://github.com/dataease/dataease/) - 人人可用的开源数据可视化分析工具
-- [MeterSphere](https://github.com/metersphere/metersphere/) - 一站式开源自动化测试平台
 - [1Panel](https://github.com/1panel-dev/1panel/) - 现代化、开源的 Linux 服务器运维管理面板
+- [DataEase](https://github.com/dataease/dataease/) - 人人可用的开源数据可视化分析工具
+- [MeterSphere](https://github.com/metersphere/metersphere/) - 现代化、开源的测试管理及接口测试工具
 - [Halo](https://github.com/halo-dev/halo/) - 强大易用的开源建站工具
+- [MaxKB](https://github.com/1Panel-dev/MaxKB) - 基于 LLM 大语言模型的开源知识库问答系统
