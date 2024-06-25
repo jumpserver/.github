@@ -1,7 +1,8 @@
-<h3 align="center">An open-source PAM tool and alternative to CyberArk. 广受欢迎的开源堡垒机。</h3>
+<h3 align="center">An open-source PAM tool and alternative to CyberArk <br> 广受欢迎的开源堡垒机</h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/jumpserver/jumpserver" alt="License: GPLv3"></a>
+  <a href="https://discord.com/invite/jcM5tKWJ"><img src="https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb" alt="Discord"></a>
   <a href="https://hub.docker.com/u/jumpserver"><img src="https://img.shields.io/docker/pulls/jumpserver/jms_all.svg" alt="Docker pulls"></a>
   <a href="https://github.com/jumpserver/jumpserver/releases/latest"><img src="https://img.shields.io/github/v/release/jumpserver/jumpserver" alt="Latest release"></a>
   <a href="https://github.com/jumpserver/jumpserver"><img src="https://img.shields.io/github/stars/jumpserver/jumpserver?color=%231890FF&style=flat-square" alt="Stars"></a>
@@ -28,15 +29,16 @@
 
 ## Links
 
-- [Website](https://jumpserver.org)
-- [Docs](https://docs.jumpserver.org)
+- [Website](https://jumpserver.org/index-en.html)
+- [Docs](https://en-docs.jumpserver.org)
 - [BBS](https://bbs.fit2cloud.com/c/js/5)
 - [Blog](https://blog.fit2cloud.com/categories/jumpserver)
+
 
 ## Our other projects
 
 <!-- - [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机 -->
 - [DataEase](https://github.com/dataease/dataease/) - A user-friendly open-source visualization tool.
-- [MeterSphere](https://github.com/metersphere/metersphere/) - A open-source automated testing platform.
+- [MeterSphere](https://github.com/metersphere/metersphere/) - An open-source automated testing platform.
 - [1Panel](https://github.com/1panel-dev/1panel/) - Modern and open-source Linux server administration panel.
 - [Halo](https://github.com/halo-dev/halo/) - Powerful and user-friendly open-source website building tool.
