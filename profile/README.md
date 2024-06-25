@@ -33,7 +33,7 @@
 - [BBS](https://bbs.fit2cloud.com/c/js/5)
 - [Blog](https://blog.fit2cloud.com/categories/jumpserver)
 
-## Our other project
+## Our other projects
 
 <!-- - [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机 -->
 - [DataEase](https://github.com/dataease/dataease/) - A user-friendly open-source visualization tool.
