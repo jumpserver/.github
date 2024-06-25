@@ -1,4 +1,4 @@
-<h3 align="center">An open-source PAM tool and alternative to CyberArk <br> 广受欢迎的开源堡垒机</h3>
+<h3 align="center">An open-source PAM tool alternative to CyberArk <br> 广受欢迎的开源堡垒机</h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/jumpserver/jumpserver" alt="License: GPLv3"></a>
