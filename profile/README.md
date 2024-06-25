@@ -9,9 +9,9 @@
 
 
 ------------------------------
-## 核心项目
+## Components
 
-| 项目                                                     | 状态                                                                                                                                                                     | 描述                                                                                |
+| Repo                                                     | Status                                                                                                                                                                     | Description                                                                                |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [Core](https://github.com/jumpserver/jumpserver)       | <a href="https://github.com/jumpserver/jumpserver/releases"><img alt="JumpServer" src="https://img.shields.io/github/release/jumpserver/jumpserver.svg" /></a>         | JumpServer core api server                                                                 |
 | [Lina](https://github.com/jumpserver/lina)             | <a href="https://github.com/jumpserver/lina/releases"><img alt="Lina release" src="https://img.shields.io/github/release/jumpserver/lina.svg" /></a>                   | JumpServer Web UI                                                                                       |
