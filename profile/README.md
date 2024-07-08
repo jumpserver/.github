@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/jumpserver/jumpserver" alt="License: GPLv3"></a>
-  <a href="https://discord.com/invite/jcM5tKWJ"><img src="https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb" alt="Discord"></a>
+  <a href="https://discord.com/invite/W6vYXmAQG2"><img src="https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb" alt="Discord"></a>
   <a href="https://hub.docker.com/u/jumpserver"><img src="https://img.shields.io/docker/pulls/jumpserver/jms_all.svg" alt="Docker pulls"></a>
   <a href="https://github.com/jumpserver/jumpserver/releases/latest"><img src="https://img.shields.io/github/v/release/jumpserver/jumpserver" alt="Latest release"></a>
   <a href="https://github.com/jumpserver/jumpserver"><img src="https://img.shields.io/github/stars/jumpserver/jumpserver?color=%231890FF&style=flat-square" alt="Stars"></a>
@@ -26,12 +26,10 @@
 | [Magnus](https://github.com/jumpserver/magnus)         | <img alt="Magnus" src="https://img.shields.io/badge/release-private-red" />                                                                                            | JumpServer EE Database Proxy Connector                                                                     |
 
 
-
-
 ## Links
 
-- [Website](https://jumpserver.org/index-en.html)
-- [Docs](https://docs.jumpserver.org)
+- [Website](https://jumpserver.com)
+- [Docs](https://jumpserver.com/docs)
 - [BBS](https://bbs.fit2cloud.com/c/js/5)
 - [Blog](https://blog.fit2cloud.com/categories/jumpserver)
 
