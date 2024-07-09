@@ -8,7 +8,6 @@
   <a href="https://github.com/jumpserver/jumpserver"><img src="https://img.shields.io/github/stars/jumpserver/jumpserver?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
 
-
 ------------------------------
 ## Components
 
@@ -25,19 +24,7 @@
 | [Panda](https://github.com/jumpserver/Panda)           | <img alt="Panda" src="https://img.shields.io/badge/release-private-red" />                                                                                             | JumpServer EE Remote Application Connector (Linux)                                                         |
 | [Magnus](https://github.com/jumpserver/magnus)         | <img alt="Magnus" src="https://img.shields.io/badge/release-private-red" />                                                                                            | JumpServer EE Database Proxy Connector                                                                     |
 
-
 ## Links
 
 - [Website](https://jumpserver.com)
 - [Docs](https://jumpserver.com/docs)
-- [BBS](https://bbs.fit2cloud.com/c/js/5)
-- [Blog](https://blog.fit2cloud.com/categories/jumpserver)
-
-
-## Our other projects
-
-<!-- - [JumpServer](https://github.com/jumpserver/jumpserver/) - 广受欢迎的开源堡垒机 -->
-- [DataEase](https://github.com/dataease/dataease/) - A user-friendly open-source visualization tool.
-- [MeterSphere](https://github.com/metersphere/metersphere/) - An open-source automated testing platform.
-- [1Panel](https://github.com/1panel-dev/1panel/) - Modern and open-source Linux server administration panel.
-- [Halo](https://github.com/halo-dev/halo/) - Powerful and user-friendly open-source website building tool.
